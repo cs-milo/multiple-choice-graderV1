@@ -35,7 +35,7 @@ This is Version One of the **Multiple Choice Grader** program, a C# console appl
 1. Open terminal or command prompt.
 2. Navigate to the project directory:
    ```bash
-   cd path/to/MultipleChoiceGrader
+   cd path/to/MultiChoiceGrade
    ```
 3. Run the program:
    ```bash
@@ -55,8 +55,8 @@ Maths: Passed! (80%)
 
 ## Files
 
-- `Program.cs`: Main source file containing interfaces, classes, and test code.
-- `MultipleChoiceGrader.csproj`: Project file required for .NET.
+- `MultiChoiceGrade.cs`: Main source file containing interfaces, classes, and test code.
+- `MultiChoiceGrade.csproj`: Project file required for .NET.
 - `README.md`: This documentation file.
 
 ---
