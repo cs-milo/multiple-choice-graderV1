@@ -61,14 +61,5 @@ Maths: Passed! (80%)
 
 ---
 
-## Next Steps (Version Two)
-
-- Add CLI menu to:
-  - Add/Edit/View/Delete students and test papers
-  - Allow test-taking from user input
-  - Store and retrieve data from files
-
----
-
 ## License
 This project is for educational use only.
